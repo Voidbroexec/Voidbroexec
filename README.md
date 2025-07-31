@@ -1,23 +1,13 @@
-# 👾 Voidbroexec
+# just void
 
-> "I don’t code projects. I forge tools."
+## I DONT KNOW USE MY TOOLS LOL
+## Fun Fact
+```C
+int <myheart.h>
 
-👁 Currently focused on:
-- 🧠 Learning Cybersecurity, Python, Go, and Reverse Engineering.
-- 🧰 Rebuilding `CLIHINT` and `VoidBag` with 🔥.
-- 🧪 Testing cross-platform dev tools built from the terminal up.
-
-🤝 I collaborate with:
-- AIs, lone wolves, and rebels who learn outside the system.
-
-📡 Reach me at:
-- `voidbro.exec@gmail.com`  
-- (soon): tiktok.com/@voidbroexec | github.io/voidbroexec
-
-⚡ Fun Fact:
-- I once wrote a full emotion system in Vim… then rage-quit because I didn’t know how to save.
-
----
-
-> Follow if you vibe with clean code, real grind, terminal tools, or AI-powered legacy building.
-
+void heart()
+{
+  int heart = 0;
+  return 60;
+}
+```
